@@ -2,7 +2,6 @@ Stream Deck – Spotlight Coin
 
 Single cryptocurrency market display for Elgato Stream Deck. Shows a coin’s live price (and optional change) right on a key, so you can keep an eye on the market at a glance.
 
-<p align="center"> <a href="https://marketplace.elgato.com/product/spotlight-coin-ff7fd4e6-d329-4356-98fb-7104b3f8fd7c"> <img alt="Download from Marketplace" src="https://img.shields.io/badge/Elgato%20Marketplace-Install%20Now-blue?logo=elgato"> </a> <a href="#"><img alt="License" src="https://img.shields.io/badge/license-MIT-informational"></a> </p>
 ✨ Features
 
 Single-coin spotlight – pick one crypto (e.g., BTC, ETH) to display on a key.
