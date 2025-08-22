@@ -4,23 +4,23 @@ Real-time cryptocurrency spotlight plugin for Elgato Stream Deck — track a sin
 
 ## Features
 
-- **Live price updates (configurable refresh interval)
+- Live price updates (configurable refresh interval)
 
-- **Custom symbol input (e.g. BTC, ETH, SOL)
+- Custom symbol input (e.g. BTC, ETH, SOL)
 
-- **Color-coded indicators**:
+- Color-coded indicators**:
 
-- **Green = price up ▲
+- Green = price up ▲
 
-- **Red = price down ▼
+- Red = price down ▼
 
-- **Single-coin spotlight — dedicate a key to one coin
+- Single-coin spotlight — dedicate a key to one coin
 
-- **Multi-instance support — track multiple coins on different keys
+- Multi-instance support — track multiple coins on different keys
 
-- **Compact, high-contrast UI (optimized for Stream Deck keys)
+- Compact, high-contrast UI (optimized for Stream Deck keys)
 
-- **Built with TypeScript and Elgato Stream Deck SDK
+- Built with TypeScript and Elgato Stream Deck SDK
 
 ## Example
 | Symbol | Output Example |
