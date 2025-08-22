@@ -1,6 +1,6 @@
 {
 	"Name": "Spotlight Coin",
-	"Version": "0.1.0.0",
+	"Version": "0.1.1.1",
 	"Author": "Pawish Gawinseth",
 	"Actions": [
 		{
@@ -20,7 +20,7 @@
 			]
 		}
 	],
-	"Category": "Finance",
+	"Category": "Crypto Insights",
 	"CategoryIcon": "imgs/plugin/category-icon",
 	"CodePath": "bin/plugin.js",
 	"Description": "Single cryptocurrency market display",
